@@ -2,11 +2,6 @@
     width: 250px;
 }
 
-.dropdown-menu[data-bs-popper] {
-    right: 0;
-    left: auto;
-}
-
 .img-thumbnail{
     width: 200px;
 }
@@ -40,4 +35,12 @@
 
 body{
   background-color: #ceedf2;
+}
+
+.topnav a:hover { 
+  background-color: #d9d4d4
+}
+
+.topnav a {
+  text-decoration: none;
 }
